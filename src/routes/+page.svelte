@@ -124,7 +124,7 @@
 
 			<p>
 				Explore the source code and further information in the <a
-					href="#"
+					href="https://github.com/hendrikdevs/hendrikdevs.github.io"
 					target="_blank"
 					rel="noreferrer">GitHub repository.</a
 				>
