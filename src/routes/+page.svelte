@@ -1,3 +1,6 @@
+<svelte:head>
+	<title>Portfolio - Eisenblätter</title>
+</svelte:head>
 <header>
 	<div id="left">
 		<div id="avatar">
