@@ -28,7 +28,7 @@
 			<h3>Contact</h3>
 			<div>
 				<img src="at.svg" alt="email address identifier" />
-				<a href="mailto:todo@todo.com">hendrikdevs@proton.me</a>
+				<a href="mailto:hendrikdevs@proton.me">hendrikdevs@proton.me</a>
 			</div>
 		</div>
 	</div>
